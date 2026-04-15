@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.13" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="9.0.13" />
+      <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="8.16.0" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+      <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.16.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AUTH.Core\AUTH.Core.csproj" />
+      <ProjectReference Include="..\AUTH.Domain\AUTH.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

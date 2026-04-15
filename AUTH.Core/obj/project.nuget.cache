@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xYkihsxdQXw=",
+  "success": true,
+  "projectFilePath": "/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/AUTH.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeangreg/.nuget/packages/bcrypt.net-next/4.1.0/bcrypt.net-next.4.1.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.13/microsoft.extensions.configuration.abstractions.9.0.13.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.extensions.primitives/9.0.13/microsoft.extensions.primitives.9.0.13.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.identitymodel.abstractions/8.16.0/microsoft.identitymodel.abstractions.8.16.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.16.0/microsoft.identitymodel.jsonwebtokens.8.16.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.identitymodel.logging/8.16.0/microsoft.identitymodel.logging.8.16.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/microsoft.identitymodel.tokens/8.16.0/microsoft.identitymodel.tokens.8.16.0.nupkg.sha512",
+    "/Users/jeangreg/.nuget/packages/system.identitymodel.tokens.jwt/8.16.0/system.identitymodel.tokens.jwt.8.16.0.nupkg.sha512"
+  ],
+  "logs": []
+}

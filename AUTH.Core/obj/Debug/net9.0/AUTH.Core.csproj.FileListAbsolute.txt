@@ -1,0 +1,15 @@
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/bin/Debug/net9.0/AUTH.Core.deps.json
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/bin/Debug/net9.0/AUTH.Core.dll
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/bin/Debug/net9.0/AUTH.Core.pdb
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/bin/Debug/net9.0/AUTH.Domain.dll
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/bin/Debug/net9.0/AUTH.Domain.pdb
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.csproj.AssemblyReference.cache
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.AssemblyInfoInputs.cache
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.AssemblyInfo.cs
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.csproj.CoreCompileInputs.cache
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.csproj.Up2Date
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.dll
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/refint/AUTH.Core.dll
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/AUTH.Core.pdb
+/Users/jeangreg/RiderProjects/WebApplication2/AUTH.Core/obj/Debug/net9.0/ref/AUTH.Core.dll
