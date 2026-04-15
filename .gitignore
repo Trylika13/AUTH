@@ -1,0 +1,6 @@
+/AUTH.sln
+bin/
+obj/
+appsettings.json
+!appsettings.Example.json
+.idea/
